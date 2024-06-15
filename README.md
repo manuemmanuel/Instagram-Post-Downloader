@@ -28,4 +28,5 @@ This Python script uses the `instaloader` package to download all photos from a 
     ```bash
     python main.py
     ```
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/manuemmanuel/Instagram-Post-Downloader/blob/main/LICENSE) file for details.
